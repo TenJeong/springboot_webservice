@@ -16,3 +16,11 @@
 - 현재 AWS를 통해 배포 중
 - [게시판 링크](http://ec2-43-200-158-190.ap-northeast-2.compute.amazonaws.com:8080)
 - 구글 또는 네이버로 로그인시 GUEST 계정이며, 글 등록 불가. 요청시 USER로 변경.
+---
+### 스크린샷  
+<img src="./img/screenshot1.png" width="800">. 
+<img src="./img/screenshot2.png" width="800">.
+<p float="left">
+  <img src="./img/screenshot3.png" width="500" height="620"/>
+  <img src="./img/screenshot4.png" width="500" height="600"/> 
+</p>
